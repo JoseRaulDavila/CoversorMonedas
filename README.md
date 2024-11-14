@@ -64,7 +64,7 @@ La clase **ConsultaCambio** obtiene la tasa de cambio entre dos monedas utilizan
 
 ![image](https://github.com/user-attachments/assets/334bebd8-fbe9-425c-a026-e89228231203)
 
-# GeneradorArchivo - Clase para Guardar Objetos "Cambio" en un Archivo JSON
+# GeneradorArchivo - Clase para Guardar Objetos
 
 La clase **GeneradorArchivo** guarda un objeto **Cambio** como un archivo JSON con formato legible.
 
